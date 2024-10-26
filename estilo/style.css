@@ -7,14 +7,6 @@
     src: url('/fontes/idroid.otf') format('opentype');
     font-weight: normal;
 }
-/* Paleta de cores
- #c5ebd6
- #83e1ad
- #3ddc84
- #2fa866
- #1a5c37
- #063d1e
-*/
 
 :root{
     --cor0:#c5ebd6;
@@ -65,7 +57,7 @@ header >p{
     padding-right: 10px;
     padding-left: 10px;
     margin: auto;
-    margin-bottom: 20px;
+    padding-bottom: 50px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.267);
 }
 nav{
